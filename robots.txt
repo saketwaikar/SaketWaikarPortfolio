@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/images/
+
+Disallow: /temp/
+Disallow: /*.tmp
+Disallow: /private/
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://saket.waikar.me/sitemap.xml
+
+# Allow specific search engines to crawl
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
