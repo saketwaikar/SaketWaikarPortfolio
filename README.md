@@ -1,8 +1,12 @@
-<<<<<<< HEAD
-# Portfolio
+# Saket Waikar — Portfolio
 
-This is Saket Waikar's Portfolio file
-=======
-# SaketWaikarPortfolio
-My portfolio
->>>>>>> 8b06e545c427d720f93ffaaf08fcfd18ef10f89a
+Director-level portfolio showcasing enterprise architecture, platform strategy, and leadership in delivering large-scale PLM and AI platforms.
+
+This repository contains the static site for Saket Waikar's portfolio (HTML, CSS, JS) with content positioned for Director / Principal Architect roles.
+
+Highlights:
+- Platform vision, governance and enterprise impact
+- Cloud-native and SaaS architecture for AI and PLM systems
+- Cross-functional leadership and organizational scaling
+
+Visit the site (open `index.html`) to review the updated content.
