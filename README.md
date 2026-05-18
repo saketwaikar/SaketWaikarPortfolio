@@ -1,8 +1,8 @@
 # Saket Waikar — Portfolio
 
-Director-level portfolio showcasing enterprise architecture, platform strategy, and leadership in delivering large-scale PLM and AI platforms.
+Portfolio showcasing enterprise architecture expertise, platform strategy, and technical leadership in delivering large-scale PLM and AI platforms.
 
-This repository contains the static site for Saket Waikar's portfolio (HTML, CSS, JS) with content positioned for Director / Principal Architect roles.
+This repository contains the static site for Saket Waikar's portfolio (HTML, CSS, JS) showcasing 18 years of enterprise architecture, AI platform expertise, and technical leadership capabilities.
 
 Highlights:
 - Platform vision, governance and enterprise impact
